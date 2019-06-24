@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /home/alan
+cd /home/pi
 
 # model DHT22
 # GPIO 4 (= pin 7)
