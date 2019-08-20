@@ -52,8 +52,8 @@ three wires:
 
 Please see adjoined images for details.
 
-![Connection, DHT22 side](/images/conn_dht22.jpg)
+![Connection, DHT22 side](images/conn_dht22.jpg)
 
-![Connection, RPi side](/images/conn_rpi.jpg)
+![Connection, RPi side](images/conn_rpi.jpg)
 
 
