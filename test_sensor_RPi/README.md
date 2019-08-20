@@ -52,8 +52,8 @@ three wires:
 
 Please see adjoined images for details.
 
-![Connection, DHT22 side](images/'2019-06-24 10.46.51.jpg')
+![Connection, DHT22 side](/images/'2019-06-24 10.46.51.jpg')
 
-![Connection, RPi side](images/'2019-06-24 10.47.20.jpg')
+![Connection, RPi side](/images/'2019-06-24 10.47.20.jpg')
 
 
