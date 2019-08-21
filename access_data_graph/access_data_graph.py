@@ -1,6 +1,6 @@
 #
 # Python program to pull temperature and relative humidity data
-# from the projecte_collab_dades respository CSV files.
+# from the projecte_collab_dades repository CSV files.
 #
 # Written by Alan Ward, (C) 2019. This software is provided for 
 # free, but alsolutely no warranties are offered. Use at your 
