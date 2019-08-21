@@ -15,3 +15,8 @@ communications, then please do cite the original project.
 
 The full text of this licence may be found here: (https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
+Three versions of the program are available:
+
+- access_data_graph.py	The original program, for Python version 2.
+- access_data_graph_version3.py	The same program, for Python version 3. 
+- Access to data, jupyter notebook version.ipynb	A Jupyter notebook adaptation of the Python 3 program.
