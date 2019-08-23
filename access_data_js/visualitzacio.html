@@ -1,0 +1,38 @@
+<html>
+
+	<meta charset="utf-8" />
+	<meta http-equiv="X-Frame-Options" content="sameorigin"/>
+	<meta http-equiv="Access-Control-Allow-Origin" content="*"/>	
+	
+	<head>
+		<title>Visualització de dades</title> 
+	</head>
+	
+	<script>
+	
+	function parseFiles() {
+		
+		var xmlHttp = new XMLHttpRequest();
+		
+		xmlHttp.onreadystatechange = parseFilesCallback(xmlHttp.responseText);
+		xmlHttp.open("GET", 'http://github.com/alanwardubuntu/projecte_collab_dades/dades', true);
+		xmlHttp.send(null);
+	};
+	
+	function parseFilesCallback(data) {
+		sortida = document.getElementById('sortida');
+		sortida.innerHTML = '<pre>';
+		
+		console.log(data);
+		sortida.innerHTML += data;
+			
+		sortida.innerHTML += '</pre>';
+	}
+	
+	</script>
+	
+	<body onload="parseFiles()">
+		<h1>Fitxers de dades disponibles al servidor</h1>
+		<div id="sortida"></div>
+	</body>
+</html>
