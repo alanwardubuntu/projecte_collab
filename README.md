@@ -32,7 +32,11 @@ Python (by AdaFruit) to obtain the data from the sensor. They can
 then be use as seen fit, in this example logged to an SQLite database 
 file. 
 
-*access_data_graph* is a simple Python program for the desktop that 
+*access_data_graph-python* is a simple Python program for the desktop that 
 accesses temperature and humidity data from a store in our companion repository 
 *projecte_collab_dades* and presents the curves onscreen. 
  
+*access_data_graph-android* is a complete Android application that 
+accesses temperature and humidty data from a store in our companion repository 
+*projecte_collab_dades*. Source code and APK file are available.
+
