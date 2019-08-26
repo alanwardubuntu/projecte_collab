@@ -40,3 +40,6 @@ accesses temperature and humidity data from a store in our companion repository
 accesses temperature and humidty data from a store in our companion repository 
 *projecte_collab_dades*. Source code and APK file are available.
 
+*access_local_data-php* is a server script in PHP that accesses a 
+local copy of data files from the *data* subdirectory and plots 
+results in a web page.
