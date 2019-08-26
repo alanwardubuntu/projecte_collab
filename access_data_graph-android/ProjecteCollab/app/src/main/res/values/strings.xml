@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Projecte Collab</string>
+    <string name="action_settings">Settings</string>
+    <string name="dades_disponibles">Dades disponibles</string>
+    <string name="obrir">Obrir</string>
+    <string name="sortir">Sortir</string>
+    <string name="a_proposit">A propòsit</string>
+    <string name="ok">D\'acord</string>
+    <string name="github_address">https://api.github.com/repos/alanwardubuntu/projecte_collab_dades/contents/data</string>
+    <string name="title_activity_graphics">Visualització de la corba</string>
+</resources>
